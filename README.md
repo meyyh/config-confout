@@ -1,2 +1,2 @@
-# setup-setout
-arch linux config/system setup export tool
+# config-confout
+arch linux config/system config export tool
